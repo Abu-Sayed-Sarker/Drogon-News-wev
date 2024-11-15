@@ -6,7 +6,6 @@ import { useState } from 'react';
 
 const News = (props = {}) => {
     const { news } = props || {}
-    console.log(news);
 
 
 
